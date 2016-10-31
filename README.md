@@ -18,35 +18,49 @@
   陈立鸥, 罗杰瑞. **閩英詞彙表**
   [ERIC](http://eric.ed.gov/?q=AN+INTRODUCTION+TO+THE+FOOCHOW+DIALECT&id=ED010341) 
 
+- 榕腔初學撮要
+
+- **國小福州語課本**
+  [線上版 via 連江縣本土資源教育網](http://www.study.matsu.edu.tw/language/index.htm)
+   - 马祖童谣 http://www.study.matsu.edu.tw/moonlight/index.htm
+
+- **國小福州語教師手冊**
+  [下載 via 連江縣本土資源教育網](http://www.study.matsu.edu.tw/tech/tech.htm)
+
+- **馬祖生活常用語詞1000**
+
+- **國小綜合常用語詞1000**
+  [網頁版](http://www.study.matsu.edu.tw/1000_2/index.htm)
 
 
-《福州语课本》 - 马祖连江县政府教育局 (Taiwan)
-  -  http://www.study.matsu.edu.tw/language/index.htm
-  -《福州语课本（教师用书）》 http://www.study.matsu.edu.tw/tech/tech.htm
+- **五语快易通**
+  [網頁](http://163.21.182.5/ez5language/ezlearn/)
+  - 选择**马祖**即为福州话。马祖口音与福州口音有一定出入。
 
-- 国小综合常用词语1000 http://www.study.matsu.edu.tw/1000_2/index.htm
-
-- 马祖童谣http://www.study.matsu.edu.tw/moonlight/index.htm#
-
-- 五语快易通 (选择“马祖”即为福州话)   http://163.21.182.5/ez5language/ezlearn/
-  - 马祖口音与福州口音有一定出入
-
-- 《馬祖福州話口語速成(修訂版)》吳志誠 編校 [下载](http://pan.baidu.com/s/1ntvabbj)
+- 吳志誠. **馬祖福州話口語速成(修訂版)** 
+  [下载](http://pan.baidu.com/s/1ntvabbj)
 
 
-# 字典 / 词典
+# 字典 / 辭典
 
-- 《福州方言词典》_冯爱珍_ 江苏教育出版社 1998 [下载](http://pan.baidu.com/s/1kTHyMbX)
+- 冯爱珍. 1998. **福州方言词典**. 南京: 江苏教育出版社.
+  [下载](http://pan.baidu.com/s/1kTHyMbX)
+  - 厝邊公司曾经基于此詞典推出過在線福州語詞典。現已下線。
 
-- 《福州方言字典》_李如龙、梁玉璋、邹光椿、陈泽平_ 福建人民出版社 1994 [下载](http://pan.baidu.com/s/1gdw6y7h)
+- 李如龙, 梁玉璋, 邹光椿, 陈泽平. 1994. **福州方言字典** 福州: 福建人民出版社  
+  [下载](http://pan.baidu.com/s/1gdw6y7h)
 
-- _Dictionary of the Foochow Dialect, 1st Edition_ R.S. Maclay 1870 [下载](http://pan.baidu.com/s/1dDm2T81)
+- **Dictionary of the Foochow Dialect**, 1st Edition_ R.S. Maclay 1870 
+  [下载](http://pan.baidu.com/s/1dDm2T81)
 
-- _An Alphabetic Dictionary of the Chinese Language in the Foochow Dialect, R.S. Maclay & C.C. Baldwin 1870_
+- **An Alphabetic Dictionary of the Chinese Language in the Foochow Dialect**, R.S. Maclay & C.C. Baldwin 1870_
   [下载](http://pan.baidu.com/s/1kTtcoIF)
 
 - An English-Chinese Dictionary of the Foochow Dialect  T.B. Adam 1891 [下载](http://pan.baidu.com/s/1bnGtkrP)
 
+- Fujianese
+
+  - 書名是失誤。
 # 经典著作
 
 - 《戚林八音》 http://pan.baidu.com/s/1i38F0kX
@@ -64,6 +78,12 @@
   - 第一个对福州话的语言学研究
   - [WikiSource](http://en.wikisource.org/wiki/The_Chinese_Language_Spoken_at_Fuh_Chau) 
   - The Methodist Review (PDF) Page 352
+
+- 陶燠民. 1930. **閩音研究.** 中央研究院歷史語言研究所集刊.
+
+- 王天昌. 1969. **福州語音研究**.
+
+- 陳澤平. 2010. **19世紀以來的福州方言**. 福州: 福建人民出版社.
 
 
 # 平话字
