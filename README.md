@@ -1,5 +1,20 @@
 # awesome-hokchew
+收集整理的福州話資料。
 
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**目錄**
+
+- [教材](#%E6%95%99%E6%9D%90)
+- [字典 / 辭典](#%E5%AD%97%E5%85%B8--%E8%BE%AD%E5%85%B8)
+- [经典著作](#%E7%BB%8F%E5%85%B8%E8%91%97%E4%BD%9C)
+- [研究论文](#%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87)
+- [平话字](#%E5%B9%B3%E8%AF%9D%E5%AD%97)
+- [社交媒體](#%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94)
+- [討論區](#%E8%A8%8E%E8%AB%96%E5%8D%80)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## 教材
 
 - Chen, L., & Norman, J. 1965. **An introduction to the Foochow dialect**. San Francisco: San Francisco State College. 
@@ -41,7 +56,7 @@
   [下载](http://pan.baidu.com/s/1ntvabbj)
 
 
-# 字典 / 辭典
+## 字典 / 辭典
 
 - 冯爱珍. 1998. **福州方言词典**. 南京: 江苏教育出版社.
   [下载](http://pan.baidu.com/s/1kTHyMbX)
@@ -61,7 +76,8 @@
 - Fujianese
 
   - 書名是失誤。
-# 经典著作
+
+## 经典著作
 
 - 《戚林八音》 http://pan.baidu.com/s/1i38F0kX
 
@@ -86,13 +102,13 @@
 - 陳澤平. 2010. **19世紀以來的福州方言**. 福州: 福建人民出版社.
 
 
-# 平话字
+## 平话字
 
 - 平话字(福州话罗马字) http://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A9%B1%E5%AD%97
 - 如何读 http://cdo.wikipedia.org/wiki/Help:%E5%A6%82%E4%BD%95%E8%AE%80
 - http://cdo.wikipedia.org/wiki/B%C3%A0ng-u%C3%A2-c%C3%AA
 
-# 社交媒體
+## 社交媒體
 - [微信] 榕城愛講福州話
 
 - [微博] [平話堂](http://weibo.com/bangwa)
@@ -101,7 +117,7 @@
 
 - [Facebook] 攀講馬祖 https://www.facebook.com/voiceofmatsu
 
-# 討論區
+## 討論區
 
 - 海墘閩語論壇  http://www.ispeakmin.com/
 - 福州話 - 百度貼吧 http://tieba.baidu.com/f?kw=%B8%A3%D6%DD%BB%B0
