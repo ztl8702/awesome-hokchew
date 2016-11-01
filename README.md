@@ -1,6 +1,8 @@
 # Awesome Hokchew!
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**[正體中文](README.md) | [简体中文](README.zh-hans.md)**
+
 收集整理的福州話 / 閩東語資料。A curated list of resources about Foochow / Hokchew or Eastern Min.
 
 如果你發現了錯誤，或者希望添加新資源。請[創建 Issue](https://github.com/ztl8702/awesome-hokchew/issues) 或者 [Pull Request](https://github.com/ztl8702/awesome-hokchew/pulls)。參見[如何參與貢獻](CONTRIBUTING.md)。
