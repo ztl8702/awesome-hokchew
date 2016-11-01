@@ -1,23 +1,31 @@
-# awesome-hokchew
-收集整理的福州話資料。
+# Awesome Hokchew!
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+收集整理的福州話 / 閩東語資料。A curated list of resources about Foochow / Hokchew or Eastern Min.
+
+如果你發現了錯誤，或者希望添加新資源。請創建 Issue 或者 Pull Request。
+If you have spotted a mistake or want to add something more, please create an issue or a pull request.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**目錄**
+**目錄 Table of Contents**
 
-- [教材](#%E6%95%99%E6%9D%90)
-- [字典 / 辭典](#%E5%AD%97%E5%85%B8--%E8%BE%AD%E5%85%B8)
+- [教材 Textbooks](#%E6%95%99%E6%9D%90-textbooks)
+- [字典 / 辭典 Dictionaries](#%E5%AD%97%E5%85%B8--%E8%BE%AD%E5%85%B8-dictionaries)
 - [经典著作](#%E7%BB%8F%E5%85%B8%E8%91%97%E4%BD%9C)
-- [研究论文](#%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87)
-- [其他](#%E5%85%B6%E4%BB%96)
-- [福州話羅馬字 (平话字)](#%E7%A6%8F%E5%B7%9E%E8%A9%B1%E7%BE%85%E9%A6%AC%E5%AD%97-%E5%B9%B3%E8%AF%9D%E5%AD%97)
+- [研究型著作 / 論文 Research-based Works / Papers](#%E7%A0%94%E7%A9%B6%E5%9E%8B%E8%91%97%E4%BD%9C--%E8%AB%96%E6%96%87-research-based-works--papers)
+- [福州話羅馬字 (平话字) Foochow Romanized](#%E7%A6%8F%E5%B7%9E%E8%A9%B1%E7%BE%85%E9%A6%AC%E5%AD%97-%E5%B9%B3%E8%AF%9D%E5%AD%97-foochow-romanized)
   - [福州話羅馬字著作](#%E7%A6%8F%E5%B7%9E%E8%A9%B1%E7%BE%85%E9%A6%AC%E5%AD%97%E8%91%97%E4%BD%9C)
-- [社交媒體](#%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94)
+  - [輸入法 IME](#%E8%BC%B8%E5%85%A5%E6%B3%95-ime)
+- [其他](#%E5%85%B6%E4%BB%96)
+- [社交媒體 Social Media](#%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-social-media)
+- [開源項目 Open Source Projects](#%E9%96%8B%E6%BA%90%E9%A0%85%E7%9B%AE-open-source-projects)
 - [討論區](#%E8%A8%8E%E8%AB%96%E5%8D%80)
+- [爲什麼做這個列表 Why make this list](#%E7%88%B2%E4%BB%80%E9%BA%BC%E5%81%9A%E9%80%99%E5%80%8B%E5%88%97%E8%A1%A8-why-make-this-list)
+- [授權 Licensing](#%E6%8E%88%E6%AC%8A-licensing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## 教材
+## 教材 Textbooks
 
 - Chen, L., & Norman, J. 1965. **An introduction to the Foochow dialect**. San Francisco: San Francisco State College. 
   陈立鸥, 罗杰瑞 **閩語入門** 1965. 三藩市: 舊金山州立大學. ⭐️⭐️⭐️⭐️⭐️
@@ -58,7 +66,7 @@
   [下载](http://pan.baidu.com/s/1ntvabbj)
 
 
-## 字典 / 辭典
+## 字典 / 辭典 Dictionaries
 
 - 冯爱珍. 1998. **福州方言词典**. 南京: 江苏教育出版社. ⭐️⭐️⭐️⭐️⭐️
   [下载](http://pan.baidu.com/s/1kTHyMbX)
@@ -73,19 +81,23 @@
 - **An Alphabetic Dictionary of the Chinese Language in the Foochow Dialect**, R.S. Maclay & C.C. Baldwin 1870_
   [下载](http://pan.baidu.com/s/1kTtcoIF)
 
+- 加訂美全八音
+
+- 班華字典
+
 - An English-Chinese Dictionary of the Foochow Dialect  T.B. Adam 1891 [下载](http://pan.baidu.com/s/1bnGtkrP)
 
 - Fujianese ⭐️⭐️⭐️
 
   - 書名是失誤。
 
-## 经典著作
+## 经典著作 
 
 - 《戚林八音》 http://pan.baidu.com/s/1i38F0kX
 
 - 《闽都别记》
 
-## 研究论文
+## 研究型著作 / 論文 Research-based Works / Papers
 - THE CHINESE LANGUAGE SPOKEN AT FUH CHAU  (1856)  by Moses Clark White
   
   - 第一个对福州话的语言学研究
@@ -98,13 +110,12 @@
 
 - 陳澤平. 2010. **19世紀以來的福州方言**. 福州: 福建人民出版社.
 
-## 其他
-
-- 福州話音檔
+- Fuzhou Lizhuqing
 
 
 
-## [福州話羅馬字 (平话字)](http://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A9%B1%E5%AD%97)
+
+## [福州話羅馬字 (平话字) Foochow Romanized](http://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A9%B1%E5%AD%97)
 
 - [如何读](http://cdo.wikipedia.org/wiki/Help:%E5%A6%82%E4%BD%95%E8%AE%80)
 - http://cdo.wikipedia.org/wiki/B%C3%A0ng-u%C3%A2-c%C3%AA
@@ -115,17 +126,28 @@
   - 平話字《聖經舊約》(SÉNG-GĬNG GÔ-IÓK) （閩東文） http://historical.library.cornell.edu/cgi-bin/cul.cdl/docviewer?did=cdl181&view=50&frames=0&seq=5
   - 平話字《聖經新約》(SÉNG-GĬNG SĬNG-IÓK) （閩東文） http://historical.library.cornell.edu/cgi-bin/cul.cdl/docviewer?did=cdl180&seq=3&frames=0&view=50
 
+### 輸入法 IME
 
-## 社交媒體
+
+## 其他
+
+- 福州話音檔
+
+- 俗文學叢刊
+
+## 社交媒體 Social Media
 - [微信] 榕城愛講福州話
 
 - [微博] [平話堂](http://weibo.com/bangwa)
 
-- [Facebook] 劉金姊姊的馬祖話教室 https://www.facebook.com/liujinjiejie/?fref=ts
+- 劉金姊姊的馬祖話教室 
+  [Facebook](https://www.facebook.com/liujinjiejie/?fref=ts)
 
 - 攀講馬祖 
   [Facebook](https://www.facebook.com/voiceofmatsu) |
   [網站]()
+
+## 開源項目 Open Source Projects
 
 ## 討論區
 
@@ -134,8 +156,13 @@
 - 馬祖之聲 http://matsu-voice.idv.tw/index.aspx
   - 馬祖平話教室 http://matsu-voice.idv.tw/Newslist.aspx?id=17
 
+## 爲什麼做這個列表 Why make this list
+
+`awesome-hokchew` is inspired by the recent wave of `awesome-*` lists on the web, such as `awesome-nodejs`, `awesome-dotnet` etc. 
+Most of those lists are related to IT and Computer Science, but I suddenly wonder why shouldn't we make one for a language as well. So here it is.
+
 
 ## 授權 Licensing
+公有領域 Public Domain CC0
 
-
-![](https://licensebuttons.net/p/zero/1.0/88x31.png)
+[![](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
