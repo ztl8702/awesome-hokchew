@@ -3,8 +3,8 @@
 
 收集整理的福州話 / 閩東語資料。A curated list of resources about Foochow / Hokchew or Eastern Min.
 
-如果你發現了錯誤，或者希望添加新資源。請創建 Issue 或者 Pull Request。
-If you have spotted a mistake or want to add something more, please create an issue or a pull request.
+如果你發現了錯誤，或者希望添加新資源。請[創建 Issue](https://github.com/ztl8702/awesome-hokchew/issues) 或者 [Pull Request](https://github.com/ztl8702/awesome-hokchew/pulls)。參見[如何參與貢獻](CONTRIBUTING.md)。
+If you have spotted a mistake or want to add something more, please [create an issue](https://github.com/ztl8702/awesome-hokchew/issues) or [a pull request](https://github.com/ztl8702/awesome-hokchew/pulls). See [How to Contribute](CONTRIBUTING.md) for more information.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -151,7 +151,7 @@ If you have spotted a mistake or want to add something more, please create an is
 
 ## 討論區
 
-- 海墘閩語論壇  http://www.ispeakmin.com/
+- [海墘閩語論壇](http://www.ispeakmin.com/) - 有許多高質量的討論。07-10 年左右一些閩語愛好者主要的聚集地。
 - 福州話 - 百度貼吧 http://tieba.baidu.com/f?kw=%B8%A3%D6%DD%BB%B0
 - 馬祖之聲 http://matsu-voice.idv.tw/index.aspx
   - 馬祖平話教室 http://matsu-voice.idv.tw/Newslist.aspx?id=17
