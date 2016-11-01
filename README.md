@@ -31,11 +31,11 @@
   [ERIC](http://eric.ed.gov/?q=AN+INTRODUCTION+TO+THE+FOOCHOW+DIALECT&id=ED010342) |
   [百度雲盤](http://pan.baidu.com/s/1dDvqtyx)
 
-- Chen, L., & Norman, J. 1965. Foochow-English Glossary. 
+- Chen, L., & Norman, J. 1965. **Foochow-English Glossary.** 
   陈立鸥, 罗杰瑞. **閩英詞彙表**
   [ERIC](http://eric.ed.gov/?q=AN+INTRODUCTION+TO+THE+FOOCHOW+DIALECT&id=ED010341) 
 
-- 榕腔初學撮要
+- **榕腔初學撮要**
 
 - **國小福州語課本** ⭐️⭐️⭐️⭐️⭐️
   [線上版 via 連江縣本土資源教育網](http://www.study.matsu.edu.tw/language/index.htm)
