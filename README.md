@@ -133,7 +133,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - [**閩東語維基百科**](https://cdo.wikipedia.org)
 
 ### 輸入法 IMEs for Foochow Romanized
- - [**福州語羅馬字白字法**](http://www.ispeakmin.com/bbs/viewthread.php?tid=8970&extra=page%3D1) (for macOS) 
+ - [**福州語羅馬字拍字法**](http://www.ispeakmin.com/bbs/viewthread.php?tid=8970&extra=page%3D1) (for macOS) 
 
  - [**Foochow Romanized 2011**](http://www.ispeakmin.com/bbs/viewthread.php?tid=7304&extra=page%3D1) (for Windows)
 
