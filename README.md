@@ -19,7 +19,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - [字典 / 辭典 Dictionaries](#%E5%AD%97%E5%85%B8--%E8%BE%AD%E5%85%B8-dictionaries)
 - [经典著作 Classic Works](#%E7%BB%8F%E5%85%B8%E8%91%97%E4%BD%9C-classic-works)
 - [研究型著作 / 論文 Research-based Works / Papers](#%E7%A0%94%E7%A9%B6%E5%9E%8B%E8%91%97%E4%BD%9C--%E8%AB%96%E6%96%87-research-based-works--papers)
-- [福州話羅馬字 (平话字) Foochow Romanized](#%E7%A6%8F%E5%B7%9E%E8%A9%B1%E7%BE%85%E9%A6%AC%E5%AD%97-%E5%B9%B3%E8%AF%9D%E5%AD%97-foochow-romanized)
+- [福州話羅馬字 (平話字) Foochow Romanized](#%E7%A6%8F%E5%B7%9E%E8%A9%B1%E7%BE%85%E9%A6%AC%E5%AD%97-%E5%B9%B3%E8%A9%B1%E5%AD%97-foochow-romanized)
   - [福州話羅馬字著作 Works Written in Foochow Romanized](#%E7%A6%8F%E5%B7%9E%E8%A9%B1%E7%BE%85%E9%A6%AC%E5%AD%97%E8%91%97%E4%BD%9C-works-written-in-foochow-romanized)
   - [輸入法 IMEs for Foochow Romanized](#%E8%BC%B8%E5%85%A5%E6%B3%95-imes-for-foochow-romanized)
 - [其他](#%E5%85%B6%E4%BB%96)
@@ -86,7 +86,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
   [下载](http://pan.baidu.com/s/1kTtcoIF)
 
 - **戚林八音**
-  - [戚林八音校著](http://pan.baidu.com/s/1i38F0kX)
+  - [戚林八音校註](http://pan.baidu.com/s/1i38F0kX)
 
 - 鍾德明. 1906. **加訂美全八音**
   [世界館藏查詢](http://www.worldcat.org/title/jia-ding-mei-quan-ba-yin/oclc/45465771)
@@ -119,7 +119,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
   [Amazon](https://www.amazon.com/Fuzhou-Phonology-Grammar-Li-Zhuqing/dp/B000PT3MU6)
 
 
-## [福州話羅馬字 (平话字) Foochow Romanized](http://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A9%B1%E5%AD%97)
+## [福州話羅馬字 (平話字) Foochow Romanized](http://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A9%B1%E5%AD%97)
 
 - [**如何讀**](http://cdo.wikipedia.org/wiki/Help:%E5%A6%82%E4%BD%95%E8%AE%80)
 
