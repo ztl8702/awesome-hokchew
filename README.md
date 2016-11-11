@@ -5,8 +5,8 @@
 
 收集整理的[福州話](https://zh.wikipedia.org/zh-hant/福州話) / [閩東語](https://zh.wikipedia.org/wiki/閩東語)資料。A curated list of awesome resources about [Foochow / Hokchew](https://en.wikipedia.org/wiki/Fuzhou_dialect) and [Eastern Min](https://en.wikipedia.org/wiki/Eastern_Min).
 
-如果你發現了錯誤，或者希望添加新資源。請[創建 Issue](https://github.com/ztl8702/awesome-hokchew/issues) 或者 [Pull Request](https://github.com/ztl8702/awesome-hokchew/pulls)。參見[如何參與貢獻](CONTRIBUTING.md)。
-If you have spotted a mistake or want to add something more, please [create an issue](https://github.com/ztl8702/awesome-hokchew/issues) or [a pull request](https://github.com/ztl8702/awesome-hokchew/pulls). See [How to Contribute](CONTRIBUTING.md) for more information.
+如果你發現了錯誤，或者希望添加新資源。請[創建 Issue](https://github.com/ztl8702/awesome-hokchew/issues) 或者[直接編輯](https://github.com/ztl8702/awesome-hokchew/edit/master/README.md)。參見[如何參與貢獻](CONTRIBUTING.md)。
+If you have spotted a mistake or want to add something more, please [create an issue](https://github.com/ztl8702/awesome-hokchew/issues) or [edit this file in the browser](https://github.com/ztl8702/awesome-hokchew/edit/master/README.md). See [How to Contribute](CONTRIBUTING.md) for more information.
 
 對資源的簡述與星級評價僅代表我個人觀點。但是歡迎提出不同意見。
 The reviews are based on my personal judgements. Different views are welcomed.
