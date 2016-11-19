@@ -5,8 +5,8 @@
 
 收集整理的[福州话](https://zh.wikipedia.org/zh-hant/福州话) / [闽东语](https://zh.wikipedia.org/wiki/闽东语)资料。A curated list of awesome resources about [Foochow / Hokchew](https://en.wikipedia.org/wiki/Fuzhou_dialect) and [Eastern Min](https://en.wikipedia.org/wiki/Eastern_Min).
 
-如果你发现了错误，或者希望添加新资源。请[创建 Issue](https://github.com/ztl8702/awesome-hokchew/issues) 或者 [Pull Request](https://github.com/ztl8702/awesome-hokchew/pulls)。参见[如何参与贡献](CONTRIBUTING.md)。
-If you have spotted a mistake or want to add something more, please [create an issue](https://github.com/ztl8702/awesome-hokchew/issues) or [a pull request](https://github.com/ztl8702/awesome-hokchew/pulls). See [How to Contribute](CONTRIBUTING.md) for more information.
+如果你发现了错误，或者希望添加新资源。请[创建 Issue](https://github.com/ztl8702/awesome-hokchew/issues) 或者[直接编辑](https://github.com/ztl8702/awesome-hokchew/edit/master/README.md)。参见[如何参与贡献](CONTRIBUTING.md)。
+If you have spotted a mistake or want to add something more, please [create an issue](https://github.com/ztl8702/awesome-hokchew/issues) or [edit this file in the browser](https://github.com/ztl8702/awesome-hokchew/edit/master/README.md). See [How to Contribute](CONTRIBUTING.md) for more information.
 
 对资源的简述与星级评价仅代表我个人观点。但是欢迎提出不同意见。
 The reviews are based on my personal judgements. Different views are welcomed.
@@ -49,7 +49,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
   陈立鴎, 罗杰瑞. **闽英词汇表**
   [ERIC](http://eric.ed.gov/?q=AN+INTRODUCTION+TO+THE+FOOCHOW+DIALECT&id=ED010341) 
 
-- **榕腔初学撮要**
+- **榕腔初学撮要**. 1871. 福州: 美华书局. **Manual of the Foochow Dialect**
 
 - **国小福州语课本** 🔊 ⭐️⭐️⭐️⭐️⭐️
   [线上版 via 连江县本土资源教育网](http://www.study.matsu.edu.tw/language/index.htm)
@@ -104,6 +104,9 @@ The reviews are based on my personal judgements. Different views are welcomed.
 
 - **闽都别记**
 
+- **福州土腔圣经** 1937 
+  [在线浏览 via 信望爱](https://bible.fhl.net/new/ob.php?book=61&version=&page=1)
+
 ## 研究型著作 / 论文 Research-based Works / Papers
 - White, M. 1856. **The Chinese language spoken at Fuh Chau.**  _The Methodist Review_, 352-381.
   [WikiSource](http://en.wikisource.org/wiki/The_Chinese_Language_Spoken_at_Fuh_Chau) 
@@ -144,9 +147,13 @@ The reviews are based on my personal judgements. Different views are welcomed.
   [Bilibili](http://www.bilibili.com/video/av4102199/) |
   [PDF](https://zh.scribd.com/doc/312503103/%E7%8F%BE%E4%BB%A3%E6%BC%A2%E8%AA%9E%E6%96%B9%E8%A8%80%E9%9F%B3%E6%AA%94%E5%BA%AB-%E7%A6%8F%E5%B7%9E%E8%A9%B1%E9%9F%B3%E6%AA%94)
 
-- **俗文学丛刊**. - 内有不少榕腔 / 福州平话戏曲与民间诗歌。
+- **俗文学丛刊**. 
+  - 内有不少榕腔 / 福州平话戏曲与民间诗歌。主要在卷 112、113 福州戏。
 
 ## 社交媒体 Social Media
+> 这里罗列一些社交平台上网友制作的有关福州话的内容。他们并非语言学专业的人士，内容未必非常严谨，但是有一定的特色或者价值，因此收录。
+> Here are some content about Hokchew created by people on social media platforms. The authors are not always professionals so there might be misleading information. Nevertheless, they are listed for their interestingness. 
+
 - **榕城爱讲福州话** [微信] 
 
 - **平话堂** [微博](http://weibo.com/bangwa)
@@ -158,9 +165,12 @@ The reviews are based on my personal judgements. Different views are welcomed.
   [Facebook](https://www.facebook.com/voiceofmatsu) |
   [网站](https://voiceofmatsu.tw)
 
+- **Fuzhounese Lessons (English)** **福州话教程 (英文版)** 🔊
+  [Youtube](https://www.youtube.com/playlist?list=PLQgKCnewf1Rki9xCAOa3wLiRHctkCHX-a)
+
 ## 开源项目 Open Source Projects
 
-- [**福州话熟语大全**](http://lab.mindong.asia/zh-hans/project/foochow-idioms/)
+- [**福州话熟语大全**](http://lab.mindong.asia/zh-hans/project/foochow-idioms/) 🔊
 
 - [**电子化平话字音表**](https://github.com/only3km/ciklinbekin)
 

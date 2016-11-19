@@ -49,7 +49,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
   陳立鴎, 羅傑瑞. **閩英詞彙表**
   [ERIC](http://eric.ed.gov/?q=AN+INTRODUCTION+TO+THE+FOOCHOW+DIALECT&id=ED010341) 
 
-- **榕腔初學撮要**
+- **榕腔初學撮要**. 1871. 福州: 美華書局. **Manual of the Foochow Dialect**
 
 - **國小福州語課本** 🔊 ⭐️⭐️⭐️⭐️⭐️
   [線上版 via 連江縣本土資源教育網](http://www.study.matsu.edu.tw/language/index.htm)
@@ -104,6 +104,9 @@ The reviews are based on my personal judgements. Different views are welcomed.
 
 - **閩都別記**
 
+- **福州土腔聖經** 1937 
+  [在線瀏覽 via 信望愛](https://bible.fhl.net/new/ob.php?book=61&version=&page=1)
+
 ## 研究型著作 / 論文 Research-based Works / Papers
 - White, M. 1856. **The Chinese language spoken at Fuh Chau.**  _The Methodist Review_, 352-381.
   [WikiSource](http://en.wikisource.org/wiki/The_Chinese_Language_Spoken_at_Fuh_Chau) 
@@ -144,9 +147,13 @@ The reviews are based on my personal judgements. Different views are welcomed.
   [Bilibili](http://www.bilibili.com/video/av4102199/) |
   [PDF](https://zh.scribd.com/doc/312503103/%E7%8F%BE%E4%BB%A3%E6%BC%A2%E8%AA%9E%E6%96%B9%E8%A8%80%E9%9F%B3%E6%AA%94%E5%BA%AB-%E7%A6%8F%E5%B7%9E%E8%A9%B1%E9%9F%B3%E6%AA%94)
 
-- **俗文學叢刊**. - 內有不少榕腔 / 福州平話戲曲與民間詩歌。
+- **俗文學叢刊**. 
+  - 內有不少榕腔 / 福州平話戲曲與民間詩歌。主要在卷 112、113 福州戲。
 
 ## 社交媒體 Social Media
+> 這裏羅列一些社交平臺上網友製作的有關福州話的內容。他們並非語言學專業的人士，內容未必非常嚴謹，但是有一定的特色或者價值，因此收錄。
+> Here are some content about Hokchew created by people on social media platforms. The authors are not always professionals so there might be misleading information. Nevertheless, they are listed for their interestingness. 
+
 - **榕城愛講福州話** [微信] 
 
 - **平話堂** [微博](http://weibo.com/bangwa)
@@ -158,9 +165,12 @@ The reviews are based on my personal judgements. Different views are welcomed.
   [Facebook](https://www.facebook.com/voiceofmatsu) |
   [網站](https://voiceofmatsu.tw)
 
+- **Fuzhounese Lessons (English)** **福州話教程 (英文版)** 🔊
+  [Youtube](https://www.youtube.com/playlist?list=PLQgKCnewf1Rki9xCAOa3wLiRHctkCHX-a)
+
 ## 開源項目 Open Source Projects
 
-- [**福州話熟語大全**](http://lab.mindong.asia/zh-hans/project/foochow-idioms/)
+- [**福州話熟語大全**](http://lab.mindong.asia/zh-hans/project/foochow-idioms/) 🔊
 
 - [**電子化平話字音表**](https://github.com/only3km/ciklinbekin)
 
