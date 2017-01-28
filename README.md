@@ -89,9 +89,9 @@ The reviews are based on my personal judgements. Different views are welcomed.
   - [戚林八音校註](http://pan.baidu.com/s/1i38F0kX)
 
 - 鍾德明. 1906. **加訂美全八音**
-  [世界館藏查詢](http://www.worldcat.org/title/jia-ding-mei-quan-ba-yin/oclc/45465771)
-
-- **班華字典**
+  [世界館藏查詢](http://www.worldcat.org/title/jia-ding-mei-quan-ba-yin/oclc/45465771) |
+  [下載(上本)](https://github.com/ztl8702/mq/raw/master/%E5%8A%A0%E8%A8%82%E7%BE%8E%E5%85%A8%E5%85%AB%E9%9F%B3.%E4%B8%8A%E6%9C%AC.pdf) |
+  [下載(下本)](https://github.com/ztl8702/mq/raw/master/%E5%8A%A0%E8%A8%82%E7%BE%8E%E5%85%A8%E5%85%AB%E9%9F%B3.%E4%B8%8B%E6%9C%AC.pdf)
 
 - Adam. T. 1891. **An English-Chinese Dictionary of the Foochow Dialect** 
   [下载](http://pan.baidu.com/s/1bnGtkrP)
