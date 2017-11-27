@@ -150,7 +150,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - **俗文学丛刊**. 
   - 内有不少榕腔 / 福州平话戏曲与民间诗歌。主要在卷 112、113 福州戏。
 
-- 维基文库上的 **Mìng-dĕ̤ng-ngṳ̄/闽东语**分类  
+- 维基文库上的 **Mìng-dĕ̤ng-ngṳ̄/闽东语** 分类  
   [via wikisource.org](https://wikisource.org/wiki/Category:M%C3%ACng-d%C4%95%CC%A4ng-ng%E1%B9%B3%CC%84/%E9%96%A9%E6%9D%B1%E8%AA%9E)
 
 ## 社交媒体 Social Media
