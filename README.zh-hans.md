@@ -150,6 +150,9 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - **俗文学丛刊**. 
   - 内有不少榕腔 / 福州平话戏曲与民间诗歌。主要在卷 112、113 福州戏。
 
+- 维基文库上的 **Mìng-dĕ̤ng-ngṳ̄/闽东语** 分类  
+  [via wikisource.org](https://wikisource.org/wiki/Category:M%C3%ACng-d%C4%95%CC%A4ng-ng%E1%B9%B3%CC%84/%E9%96%A9%E6%9D%B1%E8%AA%9E)
+
 ## 社交媒体 Social Media
 > 这里罗列一些社交平台上网友制作的有关福州话的内容。他们并非语言学专业的人士，内容未必非常严谨，但是有一定的特色或者价值，因此收录。
 > Here are some content about Hokchew created by people on social media platforms. The authors are not always professionals so there might be misleading information. Nevertheless, they are listed for their interestingness. 
@@ -183,7 +186,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
 
 ## Meta
 
-### 为什么做这个列表 Why make this list
+### 为什么做这个列表 Why I made this list
 
 `awesome-hokchew` is inspired by the recent wave of `awesome-*` lists on the web, such as `awesome-nodejs`, `awesome-dotnet` etc. 
 Most of those lists are related to IT and Computer Science, but I suddenly wonder why shouldn't we make one for a language as well. So here it is.
