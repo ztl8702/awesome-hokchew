@@ -36,7 +36,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - Chen, L., & Norman, J. 1965. **An introduction to the Foochow dialect**. San Francisco: San Francisco State College. 
   陳立鴎, 羅傑瑞 **閩語入門** 1965. 三藩市: 舊金山州立大學. ⭐️⭐️⭐️⭐️⭐️
   [ERIC](http://eric.ed.gov/?id=ED015449) |
-  [世界館藏查詢](http://www.worldcat.org/title/introduction-to-the-foochow-dialect/oclc/10619703&referer=brief_results)
+  [WorldCat 世界館藏查詢](http://www.worldcat.org/title/introduction-to-the-foochow-dialect/oclc/10619703&referer=brief_results)
   - 著名漢學家羅傑瑞在大學時期認識福州人陳立鴎，後來二人合著此書。有英文版和中文版。注音和解釋均在英文版中，中文版僅爲課文漢字內容，是一個附錄。
   - ERIC 有中英文的微縮膠片及電子版，但英文版顯示 `PDF pending restoration` 多年。有興趣者須向藏有 ERIC 膠片的圖書館索取。 
 
@@ -107,7 +107,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - **福州土腔聖經** 1937 
   [在線瀏覽 via 信望愛](https://bible.fhl.net/new/ob.php?book=61&version=&page=1)
 
-## 研究型著作 / 論文 Research-based Works / Papers
+## 研究型著作 / 論文 Research-based Publications / Research Papers
 - White, M. 1856. **The Chinese language spoken at Fuh Chau.**  _The Methodist Review_, 352-381.
   [WikiSource](http://en.wikisource.org/wiki/The_Chinese_Language_Spoken_at_Fuh_Chau) 
   - 第一個對福州話的語言學研究。
@@ -116,11 +116,24 @@ The reviews are based on my personal judgements. Different views are welcomed.
 
 - 王天昌. 1969. **福州語音研究**.
 
+- Shih, C. L. 1985. **From tonal to accentual: Fuzhou tone sandhi revisited.** In Annual Meeting of the Berkeley Linguistics Society (Vol. 11, pp. 316-326.
+  [PDF via linguisticsociety.org](https://journals.linguisticsociety.org/proceedings/index.php/BLS/article/viewFile/1895/1667)
+
 - 陳澤平. 2010. **19世紀以來的福州方言**. 福州: 福建人民出版社.
 
 - Li, Z. 2002.  **Fuzhou phonology and grammar.** 
   [Amazon](https://www.amazon.com/Fuzhou-Phonology-Grammar-Li-Zhuqing/dp/B000PT3MU6)
 
+- Chan, M. K. M. 1987. **Fuzhou phonology: A non-linear analysis of tone and stress.**
+  {多版本} |
+  [WorldCat 世界館藏查詢](http://www.worldcat.org/title/fuzhou-phonology-a-non-linear-analysis-of-tone-and-stress/oclc/18776974?referer=br&ht=edition)
+
+- Donohue, C. J. 2013. **Fuzhou tonal acoustics and tonology.** Munich: Lincom Europa.
+  [WorldCat 世界館藏查詢](http://www.worldcat.org/title/fuzhou-tonal-acoustics-and-tonology/oclc/867875544&referer=brief_results) |
+  [全文下載 via Academia.edu](http://www.academia.edu/5416702/Fuzhou_tonal_acoustics_and_tonology)
+
+- 陳澤平. 2015. **福州方言的結構與演變**. 北京: 人民出版社.
+  [Amazon](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01BEN5AQU)
 
 ## [福州話羅馬字 (平話字) Foochow Romanized](http://zh.wikipedia.org/wiki/%E5%B9%B3%E8%A9%B1%E5%AD%97)
 
