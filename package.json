@@ -1,0 +1,22 @@
+{
+  "name": "awesome-hokchew",
+  "version": "0.0.0",
+  "description": "A curated list of resources about the Hokchew / Foochow language. ",
+  "main": "n/a",
+  "scripts": {
+    "simplify": "node convert-hans.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztl8702/awesome-hokchew.git"
+  },
+  "author": "Radium Zheng",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/ztl8702/awesome-hokchew/issues"
+  },
+  "homepage": "https://github.com/ztl8702/awesome-hokchew#readme",
+  "devDependencies": {
+    "opencc": "^1.0.5"
+  }
+}
