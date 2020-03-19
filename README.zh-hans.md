@@ -18,16 +18,17 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - [教材 Textbooks](#%E6%95%99%E6%9D%90-textbooks)
 - [字典 / 辞典 Dictionaries](#%E5%AD%97%E5%85%B8--%E8%BE%AD%E5%85%B8-dictionaries)
 - [经典著作 Classic Works](#%E7%BB%8F%E5%85%B8%E8%91%97%E4%BD%9C-classic-works)
-- [研究型著作 / 论文 Research-based Works / Papers](#%E7%A0%94%E7%A9%B6%E5%9E%8B%E8%91%97%E4%BD%9C--%E8%AB%96%E6%96%87-research-based-works--papers)
+- [研究型著作 / 论文 Research-based Publications / Research Papers](#%E7%A0%94%E7%A9%B6%E5%9E%8B%E8%91%97%E4%BD%9C--%E8%AB%96%E6%96%87-research-based-publications--research-papers)
 - [福州话罗马字 (平话字) Foochow Romanized](#%E7%A6%8F%E5%B7%9E%E8%A9%B1%E7%BE%85%E9%A6%AC%E5%AD%97-%E5%B9%B3%E8%A9%B1%E5%AD%97-foochow-romanized)
   - [福州话罗马字著作 Works Written in Foochow Romanized](#%E7%A6%8F%E5%B7%9E%E8%A9%B1%E7%BE%85%E9%A6%AC%E5%AD%97%E8%91%97%E4%BD%9C-works-written-in-foochow-romanized)
-  - [输入法 IMEs for Foochow Romanized](#%E8%BC%B8%E5%85%A5%E6%B3%95-imes-for-foochow-romanized)
+  - [罗马字输入法 IMEs for Foochow Romanized](#%E7%BE%85%E9%A6%AC%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95-imes-for-foochow-romanized)
+- [输入法 IMEs](#%E8%BC%B8%E5%85%A5%E6%B3%95-imes)
 - [其他](#%E5%85%B6%E4%BB%96)
 - [社交媒体 Social Media](#%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-social-media)
 - [开源项目 Open Source Projects](#%E9%96%8B%E6%BA%90%E9%A0%85%E7%9B%AE-open-source-projects)
 - [讨论区 Communities](#%E8%A8%8E%E8%AB%96%E5%8D%80-communities)
 - [Meta](#meta)
-  - [为什么做这个列表 Why make this list](#%E7%88%B2%E4%BB%80%E9%BA%BC%E5%81%9A%E9%80%99%E5%80%8B%E5%88%97%E8%A1%A8-why-make-this-list)
+  - [为什么做这个列表 Why I made this list](#%E7%88%B2%E4%BB%80%E9%BA%BC%E5%81%9A%E9%80%99%E5%80%8B%E5%88%97%E8%A1%A8-why-i-made-this-list)
   - [授权 License](#%E6%8E%88%E6%AC%8A-license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -74,7 +75,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
 
 - 冯爱珍. 1998. **福州方言词典**. 南京: 江苏教育出版社. ⭐️⭐️⭐️⭐️⭐️
   [下载](http://pan.baidu.com/s/1kTHyMbX)
-  - <del>[厝边公司](http://weibo.com/2cuobian)曾经基于此词典推出过在线福州语词典。</del>现已下线。
+  - [榕典](http://yngdieng-staging.mindong.asia) 在线词典
 
 - 李如龙, 梁玉璋, 邹光椿, 陈泽平. 1994. **福州方言字典** 福州: 福建人民出版社 ⭐️⭐️⭐️⭐️⭐️
   [下载](http://pan.baidu.com/s/1gdw6y7h)
@@ -148,10 +149,14 @@ The reviews are based on my personal judgements. Different views are welcomed.
 
 - [**闽东语维基百科**](https://cdo.wikipedia.org)
 
-### 输入法 IMEs for Foochow Romanized
+### 罗马字输入法 IMEs for Foochow Romanized
  - [**福州语罗马字拍字法**](http://www.ispeakmin.com/bbs/viewthread.php?tid=8970&extra=page%3D1) (for macOS) 
 
  - [**Foochow Romanized 2011**](http://www.ispeakmin.com/bbs/viewthread.php?tid=7304&extra=page%3D1) (for Windows)
+
+## 输入法 IMEs
+
+ - [**真鸟囝输入法**](https://www.zingzeu.org) 福州话拼音输入法（输出汉字）。
 
 ## 其他
 
@@ -166,11 +171,21 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - 维基文库上的 **Mìng-dĕ̤ng-ngṳ̄/闽东语** 分类  
   [via wikisource.org](https://wikisource.org/wiki/Category:M%C3%ACng-d%C4%95%CC%A4ng-ng%E1%B9%B3%CC%84/%E9%96%A9%E6%9D%B1%E8%AA%9E)
 
+- [榕拼规范](https://yngping.zingzeu.org)
+
 ## 社交媒体 Social Media
 > 这里罗列一些社交平台上网友制作的有关福州话的内容。他们并非语言学专业的人士，内容未必非常严谨，但是有一定的特色或者价值，因此收录。
 > Here are some content about Hokchew created by people on social media platforms. The authors are not always professionals so there might be misleading information. Nevertheless, they are listed for their interestingness. 
 
-- **榕城爱讲福州话** [微信] 
+- **真鸟囝** [微信公众号]
+
+- **南仙茶摊** [微信公众号]
+  - 其中的「空中茶摊」节目
+
+- **闽侯广播电视台** [微信公众号]
+  - 其中的「讲有味」节目
+
+- **榕城爱讲福州话** [微信公众号]
 
 - **平话堂** [微博](http://weibo.com/bangwa)
 
@@ -192,6 +207,7 @@ The reviews are based on my personal judgements. Different views are welcomed.
 
 ## 讨论区 Communities
 
+- [**福州话保护Facebook群组**](https://www.facebook.com/groups/2295846490664162)
 - [**海墘闽语论坛**](http://www.ispeakmin.com/) - 有许多高质量的讨论。07-10 年左右一些闽语爱好者主要的聚集地。
 - [**福州话 - 百度贴吧**](http://tieba.baidu.com/f?kw=%B8%A3%D6%DD%BB%B0)
 - [**马祖之声**](http://matsu-voice.idv.tw/index.aspx)

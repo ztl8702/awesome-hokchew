@@ -4,7 +4,8 @@
   "description": "A curated list of resources about the Hokchew / Foochow language. ",
   "main": "n/a",
   "scripts": {
-    "simplify": "node convert-hans.js"
+    "simplify": "node convert-hans.js",
+    "doctoc": "doctoc ./README.md"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/ztl8702/awesome-hokchew#readme",
   "devDependencies": {
-    "opencc": "^1.0.5"
+    "opencc": "^1.0.5",
+    "doctoc": "^1.4.0"
   }
 }
