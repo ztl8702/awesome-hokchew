@@ -52,14 +52,14 @@ The reviews are based on my personal judgements. Different views are welcomed.
 - **榕腔初學撮要**. 1871. 福州: 美華書局. **Manual of the Foochow Dialect**
 
 - **國小福州語課本** 🔊 ⭐️⭐️⭐️⭐️⭐️
-  [線上版 via 連江縣本土資源教育網](http://www.study.matsu.edu.tw/language/index.htm)
-   - [馬祖童謠](http://www.study.matsu.edu.tw/moonlight/index.htm)
+  [線上版 via 連江縣本土資源教育網](http://www.matsudialect.org/language)
+   - [馬祖童謠](http://www.matsudialect.org/moonlight/index.htm)
 
 - **國小福州語教師手冊** ⭐️⭐️⭐️⭐️⭐️
-  [下載 via 連江縣本土資源教育網](http://www.study.matsu.edu.tw/tech/tech.htm)
+  [下載 via 連江縣本土資源教育網](http://www.matsudialect.org/tech/tech.htm)
 
 - **國小綜合常用語詞1000** 🔊
-  [網頁版](http://www.study.matsu.edu.tw/1000_2/index.htm)
+  [網頁版](http://www.matsudialect.org/1000_2/index.htm)
 
 
 - **五語快易通** 🔊 ⭐️⭐️⭐️⭐️
